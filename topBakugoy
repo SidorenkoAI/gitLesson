@@ -1,0 +1,3 @@
+topBakugoy
+def topBakugoy(a,b):
+    print(a + b)
