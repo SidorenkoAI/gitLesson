@@ -1,13 +1,3 @@
-def newFunction():
-    print("!!!!")
+def Task001():
+    print("я сделяль")
 
-print("HellO")
-newFunction()
-
-
-print("newAction")
-print("any")
-
-print("Суслов Илья на связистен :)")
-
-print('проверка работоспособности номер 2 ')
